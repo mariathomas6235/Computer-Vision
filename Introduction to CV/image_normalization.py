@@ -1,4 +1,5 @@
-#This script demonstrates basic image normalization techniques including min-max scaling, mean image creation, and standardization, with visualization of the results.
+''' This script demonstrates basic image normalization techniques including min-max scaling, mean image creation,
+and standardization, with visualization of the results.'''
 
 
 import cv2
